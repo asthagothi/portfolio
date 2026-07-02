@@ -85,19 +85,19 @@ nav div {
   gap: 34px;
 }
 
-.nav-links a,
-nav a {
+.nav-links button {
+  background: none;
+  border: none;
   color: rgba(246, 240, 231, 0.78);
-  text-decoration: none;
   font-size: 15px;
+  cursor: pointer;
+  font-family: "Inter", sans-serif;
   transition: 0.3s ease;
 }
 
-.nav-links a:hover,
-nav a:hover {
+.nav-links button:hover {
   color: var(--gold);
 }
-
 /* ================= HERO ================= */
 
 .hero {

@@ -12,7 +12,8 @@ function Skills() {
   ];
 
   return (
-    <section className="skills">
+    <section id="skills" className="skills">
+      <p className="section-label">My Toolkit</p>
       <h2>Skills</h2>
 
       <div className="skills-container">
