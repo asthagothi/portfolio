@@ -48,7 +48,7 @@ function Projects() {
 
               <button
                 onClick={() => {
-                  if (project.demo === "#") {
+                  if (project.demo === "https://portfolio-astha-gothi-007.vercel.app/") {
                     alert("Live demo coming soon!");
                   } else {
                     window.open(project.demo, "_blank");
