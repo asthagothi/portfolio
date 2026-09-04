@@ -1,13 +1,6 @@
 function Projects() {
   const projects = [
-    {
-      title: "Relive",
-      tech: "Python • Django • SQL",
-      description:
-        "A web application that allows customers to reserve restaurant tables online.",
-      github: "https://github.com/YOUR_USERNAME/restaurant-booking",
-      demo: "#",
-    },
+  
     {
       title: "Personal Portfolio",
       tech: "React • CSS • JavaScript",
@@ -23,6 +16,14 @@ function Projects() {
         "Personal AI task desk. Plans around current load, explains every priority in one line, and drafts calendar/email actions that stay pending until I approve. Django + Gemini; send only happens on Approve.",
       github: "https://github.com/asthagothi/Igotyourback-task-manager/",
       demo: "https://igotyourback-task-manager.vercel.app/",
+    },
+    {
+      title: "Relive",
+      tech: "Python • Django • SQL",
+      description:
+        "A web application that allows customers to reserve restaurant tables online.",
+      github: "https://github.com/YOUR_USERNAME/restaurant-booking",
+      demo: "#",
     },
   ];
 
