@@ -23,7 +23,7 @@ function About() {
       </div>
 
       <div className="about-image">
-        <img src="/astha-about.png.png" alt="Astha Gothi" />
+        <img src="/astha.png" alt="Astha Gothi" />
       </div>
     </section>
   );
